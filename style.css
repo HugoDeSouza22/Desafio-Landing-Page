@@ -1,0 +1,68 @@
+*{
+margin: 0;
+font-family: "inter";
+}
+
+#cabeçalho{
+    background-color: #303030;
+    color: aliceblue;
+    padding: 150px 0 150px 40px;
+}
+#titulo{
+    font-size: 60px;
+}
+h2{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+#informativo{
+    display: grid;
+    grid-auto-flow: column;
+    padding: 70px 0 70px 7%;
+
+}
+#SecaoImagem{
+    display: grid;
+    grid-auto-flow: column;
+    padding: 5px 80px 90px 80px
+}
+#texto{
+    padding: 30% 60px 20px 40px
+}
+#TituloSecaoImagem{
+    margin-bottom: 50px;
+}
+
+#secaoFormulario{
+    background-color: #303030;
+    text-align: center;
+    padding: 100px;
+    color: aliceblue;
+}
+input{
+    margin: 50px 0 0;
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 33px;
+}
+
+button{
+    border-radius: 15px;
+    padding: 15px 100px;
+    margin: 70px;
+    background-color: #C07212;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+button:hover{
+    background-color: #7a490d;
+    color: white;
+    transform: translateY(-7px);
+    transition-duration: 0.7s;
+    box-shadow: 10px 15px 20px #C07212;
+}
