@@ -1,1 +1,4 @@
 rid #84594 Desafio-Landing-Page
+rid #84594
+https://docs.google.com/spreadsheets/d/1Lg8JbxnbE1QWwJOcdaU3b1bQdKla0Gcy9X5lZdtRVws/edit?gid=0#gid=0
+https://desafio-dnc-landing-page-hugo.netlify.app/
