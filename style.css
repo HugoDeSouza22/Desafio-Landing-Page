@@ -5,7 +5,7 @@ font-family: "inter";
 
 #cabeçalho{
     background-color: #303030;
-    color: aliceblue;
+    color: #f9f9f9;
     padding: 150px 0 150px 40px;
 }
 #titulo{
@@ -39,7 +39,8 @@ h2{
     background-color: #303030;
     text-align: center;
     padding: 100px;
-    color: aliceblue;
+    color: #f9f9f9;
+    font-size: 25px;
 }
 input{
     margin: 50px 0 0;
@@ -48,20 +49,23 @@ input{
     border-radius: 10px;
     padding-left: 33px;
 }
+p{
+    font-size: 18px;
+}
 
 button{
     border-radius: 15px;
     padding: 15px 100px;
     margin: 70px;
     background-color: #C07212;
-    color: aliceblue;
+    color: #f9f9f9;
     font-weight: bold;
     font-size: 25px;
 }
 
 button:hover{
     background-color: #7a490d;
-    color: white;
+    color: #f9f9f9;
     transform: translateY(-7px);
     transition-duration: 0.7s;
     box-shadow: 10px 15px 20px #C07212;
